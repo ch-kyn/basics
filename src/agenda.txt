@@ -1,0 +1,27 @@
+React-specific
+- routes
+- context (useContext)
+- popular hooks (useState, useEffect)
+    - other hooks (useMemo, useCallback)
+- events (onClick, onChange etc.)
+- forms
+- lists
+- accessibility
+
+CSS
+- analyze their system
+- breakpoints
+- img srcset(?)
+
+JavaScript
+- useMap()
+    - other basic built-in JS functions
+
+TypeScript
+- interface and type-definitions
+- best practicee
+- typed props in components
+
+other
+- specific design patterns?
+- create route alias
